@@ -1,5 +1,5 @@
 # Auxiliar_functions
- 
+- Read 1st
  ## Marginal transformation to Fréchet domain of attraction. 
  ## Ranks transform  : Given a trajectory of observations:
  ##                      ranks              -> returns the vector of ranks
