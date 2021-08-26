@@ -135,7 +135,6 @@ logAR  <- function(pathlength){
   pathsigmacuadrado2 <- exp(AR)
   return(pathXlogAR)
 }
-
 #######################################################################
 pathiid <- function(lambda, pathlength){
   path           <- vector(mode = "double" , pathlength)
